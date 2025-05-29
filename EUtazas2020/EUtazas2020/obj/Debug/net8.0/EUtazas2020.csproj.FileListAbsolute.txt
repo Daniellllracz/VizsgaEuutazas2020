@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\bin\Debug\net8.0\EUtazas2020.exe
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\bin\Debug\net8.0\EUtazas2020.deps.json
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\bin\Debug\net8.0\EUtazas2020.runtimeconfig.json
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\bin\Debug\net8.0\EUtazas2020.dll
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\bin\Debug\net8.0\EUtazas2020.pdb
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\EUtazas2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\EUtazas2020.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\EUtazas2020.AssemblyInfo.cs
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\EUtazas2020.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\EUtazas2020.dll
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\refint\EUtazas2020.dll
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\EUtazas2020.pdb
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\EUtazas2020.genruntimeconfig.cache
+C:\Users\Dani\source\repos\EUtazas2020\EUtazas2020\obj\Debug\net8.0\ref\EUtazas2020.dll
